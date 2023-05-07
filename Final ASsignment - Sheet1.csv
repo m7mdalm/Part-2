@@ -1,0 +1,11 @@
+main_categories ,items_price, items_quantity,items_rating 
+Espresso,14,40,3
+Latte,16,30,4
+Cappuccino,15,35,5
+Mocha,17,25,3
+Hot Chocolate,14,20,4
+Tea,8,60,3
+Croissant,7,100,4
+Bagel,6,80,4
+Muffin,5,70,3
+Americano,13,50,4
